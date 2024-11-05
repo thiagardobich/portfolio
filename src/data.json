@@ -1,0 +1,17 @@
+{
+    "nombre": "Juan Pérez",
+    "proyectos": [
+      {
+        "titulo": "Contacto",
+        "descripcion": "thiagovilchez@iresm.edu.ar, +3541267980, Rio Cosquin 783, San Antonio de Arredonod, Cordoba, Argentina.",
+        "link": "https://enlace-al-proyecto1.com"
+      },
+      {
+        "titulo": "Proyecto 2",
+        "descripcion": "Descripción del proyecto 2.",
+        "link": "https://enlace-al-proyecto2.com"
+      }
+    ],
+    "habilidades": ["JavaScript", "React", "Node.js", "CSS", "HTML"]
+  }
+  
